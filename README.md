@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Creating a Calendar with React
+
+![](https://github.com/DrVicki/vickis-calendar/blob/master/demo-gif.gif)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
